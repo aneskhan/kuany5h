@@ -5,6 +5,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Todo
-- 🌱 I’m currently learning Java, Spring Framework
+- 🌱 I’m currently learning Python, Django
 - 👯 I’m looking to collaborate on other content creators
 - ⚡ Fun fact I like to play Chess and have tea over a cup of coffee.
